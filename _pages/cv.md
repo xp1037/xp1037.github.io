@@ -1,17 +1,26 @@
 ---
 layout: archive
-title: "CV - Qifan Yang"
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
 
-[Download my CV (PDF)](link-to-your-cv.pdf)
+
 
 ## Education
 - **M.S. in Materials Science**, HUST (2023–present)  
 - **B.S. in Materials Science**, HUST (2019–2023)  
 
-## Skills
-- **Computational**: VASP, PySCF, ORCA, Quantum Espresso  
-- **Programming**: Python, PyTorch, Bash, Linux HPC  
-- **Research Areas**: DMET, CCSD(T), ML for materials, 2D devices
+## Skills  
+- **Programming**: Python, Markdown, LaTeX, Bash, Linux HPC  
+- **Computational Material Tools**: VASP, PySCF, VESTA, Materials Studio
+- **Data Analysis Tools**:PyTorch,  Numpy, Scikit-learn, Pandas, Matplotlib
+
+## Award and Services 
+- First-Class Academic Scholarship, HUST, 2023
+- Outstanding Graduate Award, HUST, 2019
+- Teaching Assistant:
+  - Computational Materials Science (Fall 2018, HUST)
+
+
+[Download my CV (PDF)]("./files/resume-en.pdf")
