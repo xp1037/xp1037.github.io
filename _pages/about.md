@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "About Me"
-permalink: /about/
+permalink: /
+title: "About me - Qifan Yang"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am an M.S. student in **Materials Science and Engineering** at Huazhong University of Science and Technology (HUST).  

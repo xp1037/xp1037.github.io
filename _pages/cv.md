@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - Qifan Yang"
 permalink: /cv/
 author_profile: true
 ---
@@ -8,8 +8,8 @@ author_profile: true
 [Download my CV (PDF)](link-to-your-cv.pdf)
 
 ## Education
-- **M.S. Materials Science**, HUST (2023–present)  
-- **B.S. Materials Science**, HUST (2019–2023)  
+- **M.S. in Materials Science**, HUST (2023–present)  
+- **B.S. in Materials Science**, HUST (2019–2023)  
 
 ## Skills
 - **Computational**: VASP, PySCF, ORCA, Quantum Espresso  
