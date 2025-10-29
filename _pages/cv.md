@@ -23,4 +23,4 @@ author_profile: true
   - Computational Materials Science (Fall 2018, HUST)
 
 
-[Download my CV (PDF)]("./files/resume-en.pdf")
+[Download my CV (PDF)](files/resume-en.pdf)
