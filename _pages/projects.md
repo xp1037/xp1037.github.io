@@ -11,7 +11,7 @@ A lightweight, open-source  quantum chemistry framework built upon PySCF, integr
 
 ### Highlights
 - Periodic Hartree–Fock / DFT / MP2 / CCSD(T) calculations using PySCF-PBC.
-- bDirect embedding schemes (DMET-like) for localized correlation treatment.
+- Direct embedding schemes (DMET-like) for localized correlation treatment.
 - Automatic structure, basis, and configuration parsing.
 
 ### Quick links
